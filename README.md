@@ -9,7 +9,11 @@ Saya seorang pengembang perangkat lunak dengan minat dalam pengembangan web dan 
 
 
 
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Beliaardianti&show_icons=true&count_private=true&hide=contribs,prs)
+
+
+![Statistik GitHub 1](https://github-readme-stats.vercel.app/api?username=Beliaardianti&show_icons=true&count_private=true&hide=contribs,prs)
+![Statistik GitHub 2](https://github-readme-stats.vercel.app/api?username=Beliaardianti&show_icons=true&count_private=true&include_all_commits=true)
+
 
 
 
